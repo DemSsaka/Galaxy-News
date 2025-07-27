@@ -4,11 +4,11 @@
 Использована архитектура MVC на чистом PHP с применением ООП.  
 
 ## Стек технологий
-PHP 8+
-MySQL
-HTML / CSS (без фреймворков)
-ООП / MVC
-Google Fonts (Open Sans)
+- PHP 8+
+- MySQL
+- HTML / CSS (без фреймворков)
+- ООП / MVC
+- Google Fonts (Open Sans)
 
 ## Страницы для проверки (по ТЗ)
 Скришоты обеих страниц находятся в папке screenshots
