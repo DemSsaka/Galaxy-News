@@ -1,0 +1,2 @@
+# Galaxy-News
+TechART Test
